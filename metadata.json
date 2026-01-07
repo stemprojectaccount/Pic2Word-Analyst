@@ -1,0 +1,5 @@
+{
+  "name": "Pic2Word Analyst",
+  "description": "Ứng dụng phân tích hình ảnh thông minh sử dụng Gemini, trích xuất văn bản và nội dung sang file Word.",
+  "requestFramePermissions": []
+}
